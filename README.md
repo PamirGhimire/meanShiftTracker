@@ -1,6 +1,8 @@
 # meanShiftTracker
 Mean-shift tracking using 1D histograms and Epanechnikov profile
+
 Pamir Ghimire, November 12, 2017
+
 Visual tracking 
 
 This is an implementation of mean-shift tracking using 1D histograms 
@@ -8,9 +10,12 @@ and epanechnikov kernel. Target to be tracked has to be initialized
 manually. 
 
 Set up your project directory as follows:
+	
 	ProjectDir:
-		- .m files
-		- car (containing car sequence (jpg) )
+	
+	- .m files
+	
+	- car (containing car sequence (jpg) )
 
 To view my implementation of Mean-shift tracking,
 run Mean_Shift_Tracking.m
